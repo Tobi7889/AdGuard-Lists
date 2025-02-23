@@ -1,0 +1,2 @@
+# AdGuard-Lists
+Public Lists
